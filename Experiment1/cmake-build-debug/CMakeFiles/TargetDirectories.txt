@@ -1,3 +1,0 @@
-/Users/chenjiarui/CLionProjects/computer_vision_experiment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/chenjiarui/CLionProjects/computer_vision_experiment1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/chenjiarui/CLionProjects/computer_vision_experiment1/cmake-build-debug/CMakeFiles/computer_vision_experiment1.dir
