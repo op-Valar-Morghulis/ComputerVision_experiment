@@ -1,0 +1,6 @@
+实现基本的图片读取和加载
+cmakelist.txt => clion配置文件
+Gif_To_Mp4.cpp  => 需要装FreeImage,使用opencv加载gif图片
+alpha合成.cpp => 利用两张四通道的png图片合成一张图片
+alpha提取.cpp => 提取出一张四通道图片的alpha通道
+integrated_code.cpp => 可参考的另外一种写法
